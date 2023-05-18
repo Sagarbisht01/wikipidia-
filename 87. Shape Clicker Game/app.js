@@ -41,4 +41,5 @@ function addBox() {
   box.style.left = randomNumbers(container.width - dim[0]) + "px";
   box.style.top = randomNumbers(container.height - dim[1]) + "px";
   box.style.borderRadius = randomNumbers(50) + "%";
+
 }
